@@ -1,2 +1,0 @@
-# pits
-Pits analyzer app
